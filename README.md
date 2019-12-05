@@ -2,7 +2,7 @@
 Rainbow Songs
 Please read me 
 Git init
-$ git clone https://github.com/zebib/Rainbow.git
+$ git clone
 $ init status
 bash: init: command not found
 cz it has in the directory repository rainbow we have to do cd rainbow
